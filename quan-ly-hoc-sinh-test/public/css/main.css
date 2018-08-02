@@ -1,0 +1,26 @@
+.top-page{
+	background-color: #bdc3c7;
+	padding: 10px;
+}
+.img-thumbnail{
+	width: 60%;
+	height: 50%;
+}
+.img-pro{
+	display: flex;
+  	justify-content: center;
+}
+table th{
+	text-align: center;
+	width: 10%;
+	padding: 20px;
+}
+table td{
+	text-align: center;
+}
+.success{
+	color: #42f4c2;
+}
+.error{
+	color: #f2022a;
+}
